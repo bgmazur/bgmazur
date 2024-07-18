@@ -1,6 +1,6 @@
 # 🦆 Błażej Mazur
 
-**`Developer/Gamemaker/Designer`**
+**`Developer | Gamemaker | UI UX Designer`**
 
 //TODO Desc
 
