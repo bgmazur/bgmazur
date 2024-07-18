@@ -17,14 +17,14 @@
 
 ### 🧰 Languages and Tools
 
-<img align="left" title="Unreal Engine" alt="Unreal Engine" width="42px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg"/>
-<img align="left" title="Perforce Helix Core" alt="Perforce Helix Core" width="42px" style="padding-right:10px;" src="https://plugins.jetbrains.com/files/69/568886/icon/pluginIcon.svg"/>
-<img align="left" title="Godot" alt="Godot" width="42px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg"/>
-<img align="left" title="Java" alt="Java" width="42px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>
-<img align="left" title="Git" alt="Git" width="42px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" title="Python" alt="Python" width="42px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" title="Visual Studio" alt="Visual Studio" width="42px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"/>
-<img align="left" title="C++" alt="C++" width="42px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" title="GitHub" alt="GitHub" width="42px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" title="Jenkins" alt="Jenkins" width="42px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg"/>
+<img align="left" title="Unreal Engine" alt="Unreal Engine" width="30px" style="padding-right:4px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg"/>
+<img align="left" title="Perforce Helix Core" alt="Perforce Helix Core" width="30px" style="padding-right:4px;" src="https://plugins.jetbrains.com/files/69/568886/icon/pluginIcon.svg"/>
+<img align="left" title="Godot" alt="Godot" width="30px" style="padding-right:4px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg"/>
+<img align="left" title="Java" alt="Java" width="30px" style="padding-right:4px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>
+<img align="left" title="Git" alt="Git" width="30px" style="padding-right:4px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" title="Python" alt="Python" width="30px" style="padding-right:4px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" title="Visual Studio" alt="Visual Studio" width="30px" style="padding-right:4px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"/>
+<img align="left" title="C++" alt="C++" width="30px" style="padding-right:4px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" title="GitHub" alt="GitHub" width="30px" style="padding-right:4px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" title="Jenkins" alt="Jenkins" width="30px" style="padding-right:4px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg"/>
 <br />
