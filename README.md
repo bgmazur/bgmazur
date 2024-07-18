@@ -31,3 +31,6 @@
 <br />
 
 ### 📺 See my projects
+
+[![AI FPS Bot](https://ytcards.demolab.com/?id=_nHJqRANQbI&title=AI+FPS+Bot&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=62 "AI FPS Bot")](https://youtu.be/_nHJqRANQbI?si=VtJsx143arrusI9U)
+
