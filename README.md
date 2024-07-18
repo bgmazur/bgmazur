@@ -1,16 +1,16 @@
-## Hi there 👋
+# 🦆 Błażej Mazur
 
-<!--
-**bgmazur/bgmazur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Developer/Gamemaker/Designer`**
 
-Here are some ideas to get you started:
+//TODO Desc
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   <p align="left">
+     <a>
+         <img alt="location" title="Based in" src="https://custom-icon-badges.demolab.com/badge/Katowice-PL-red?style=for-the-badge&logo=location&logoColor=white"/></a>
+      <a href="https://www.linkedin.com/in/blazej-mazur/">
+         <img alt="location" title="Based in" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-236ad3?style=for-the-badge&logo=linkedin-brands-solid&logoColor=white"></a>
+     <!---
+      <a href="https://github.com/bgmazur?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/bgmazur?color=55960c&style=for-the-badge&labelColor=488207&label=Follow&logoColor=white"/></a>
+       --->
+   </p>
