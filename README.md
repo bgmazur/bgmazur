@@ -36,8 +36,14 @@
 ### 🦾 Deadlink
 I've worked on Deadlink as UI Technical Designer creating UI systems, designs and animations. You can see some highlights of my work in this <a href="https://drive.google.com/drive/folders/1OWeEYZfnSVDb-tVasVw3lunKfkV-UQHK?usp=drive_link">portfolio</a>
 
-[![Deadlink - Official Full Release Trailer](https://ytcards.demolab.com/?id=DRBf9RD9Yjk&t=1s=Deadlink+-+Official+Full+Release+Trailer&lang=en&timestamp=1691100000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=102 "Deadlink - Official Full Release Trailer")](https://youtu.be/DRBf9RD9Yjk?si=n-RYUD_ZSKF4yUmT)
-
+<p align="center">
+     <a href="https://youtu.be/DRBf9RD9Yjk?si=n-RYUD_ZSKF4yUmT" title="Deadlink - Official Full Release Trailer">
+    <img src="https://ytcards.demolab.com/?id=DRBf9RD9Yjk&t=1s&title=Deadlink+-+Official+Full+Release+Trailer&lang=en&timestamp=1691100000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=102" alt="Deadlink - Official Full Release Trailer">
+  </a>
+<br>
+<a href="https://store.steampowered.com/app/1676130/Deadlink/">
+<img alt="Deadlink Steam Page" title="Steam page" src="https://custom-icon-badges.demolab.com/badge/Get on Steam-2a475e?style=for-the-badge&logo=steam-seeklogo&logoColor=white"></a>
+</p>
 
 ### 📺 I've also worked on...
 [![AI FPS Bot](https://ytcards.demolab.com/?id=_nHJqRANQbI&title=AI+FPS+Bot&lang=en&timestamp=1671577200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=62 "AI FPS Bot")](https://youtu.be/_nHJqRANQbI?si=VtJsx143arrusI9U)
