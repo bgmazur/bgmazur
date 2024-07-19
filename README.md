@@ -41,6 +41,7 @@ I've worked on **Deadlink** as UI Technical Designer creating UI systems, design
 <a href="https://store.steampowered.com/app/1676130/Deadlink/">
 <img alt="Deadlink Steam Page" title="Steam page" src="https://custom-icon-badges.demolab.com/badge/Get on Steam-2a475e?style=for-the-badge&logo=steam-seeklogo&logoColor=white"></a>
 
+#
 
 ### 📺 My other works
 [![AI FPS Bot](https://ytcards.demolab.com/?id=_nHJqRANQbI&title=AI+FPS+Bot&lang=en&timestamp=1671577200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=62 "AI FPS Bot")](https://youtu.be/_nHJqRANQbI?si=VtJsx143arrusI9U)
