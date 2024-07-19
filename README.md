@@ -30,7 +30,12 @@
 <br />
 <br />
 
-### 📺 See my projects
+### Deadlink
+<a href="https://store.steampowered.com/app/1676130/Deadlink/">
+  <img src="https://deadlinkgame.com/presskit/banners/Deadlink_banner_1.jpg" style="width: 300px; height: auto; border-radius: 10px;" title="Go to steam page">
+</a>
 
+
+### 📺 See my other projects
 [![AI FPS Bot](https://ytcards.demolab.com/?id=_nHJqRANQbI&title=AI+FPS+Bot&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=62 "AI FPS Bot")](https://youtu.be/_nHJqRANQbI?si=VtJsx143arrusI9U)
 
