@@ -34,7 +34,7 @@
 #
 
 ### 🦾 Deadlink
-I've worked on **Deadlink** as UI Technical Designer creating UI systems, designs and animations. You can see some highlights of my work in this <a href="https://drive.google.com/drive/folders/1OWeEYZfnSVDb-tVasVw3lunKfkV-UQHK?usp=drive_link">portfolio</a>
+I've worked on **Deadlink** as UI Technical Designer creating UI systems, designs and animations. You can see some highlights of my work in this humble <a href="https://drive.google.com/drive/folders/1OWeEYZfnSVDb-tVasVw3lunKfkV-UQHK?usp=drive_link">portfolio</a>.
 
 [![Deadlink - Official Full Release Trailer](https://ytcards.demolab.com/?id=DRBf9RD9Yjk&t=1s=Deadlink+-+Official+Full+Release+Trailer&lang=en&timestamp=1691100000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=102 "Deadlink - Official Full Release Trailer")](https://youtu.be/DRBf9RD9Yjk?si=n-RYUD_ZSKF4yUmT)
 
@@ -42,7 +42,7 @@ I've worked on **Deadlink** as UI Technical Designer creating UI systems, design
 <img alt="Deadlink Steam Page" title="Steam page" src="https://custom-icon-badges.demolab.com/badge/Get on Steam-2a475e?style=for-the-badge&logo=steam-seeklogo&logoColor=white"></a>
 
 
-### 📺 I've also worked on...
+### 📺 My other works
 [![AI FPS Bot](https://ytcards.demolab.com/?id=_nHJqRANQbI&title=AI+FPS+Bot&lang=en&timestamp=1671577200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=62 "AI FPS Bot")](https://youtu.be/_nHJqRANQbI?si=VtJsx143arrusI9U)
 [![In The Red prototype demo](https://ytcards.demolab.com/?id=lnIxMo0C9Wc&title=In+The+Red+prototype+demo&lang=en&timestamp=1671577200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=201 "In The Red")](https://www.youtube.com/watch?v=lnIxMo0C9Wc)
 [![Godot 2D Ragdoll](https://ytcards.demolab.com/?id=fGaJnliCNoI&title=Godot+2D+Ragdoll&lang=en&timestamp=1671577200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=114 "Godot 2D Ragdoll")](https://youtu.be/fGaJnliCNoI)
