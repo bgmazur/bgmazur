@@ -14,6 +14,8 @@
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/bgmazur?color=55960c&style=for-the-badge&labelColor=488207&label=Follow&logoColor=white"/></a>
        --->
    </p>
+
+---
    
 ### 🧰 Languages and Tools
 
@@ -28,13 +30,12 @@
 <img align="left" title="GitHub" alt="GitHub" width="30px" style="padding-right:4px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" title="Jenkins" alt="Jenkins" width="30px" style="padding-right:4px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg"/>
 <br />
-<br />
 
-### Deadlink
-<a href="https://store.steampowered.com/app/1676130/Deadlink/">
-  <img src="https://deadlinkgame.com/presskit/banners/Deadlink_banner_1.jpg" style="width: 300px; height: auto; border-radius: 10px;" title="Go to steam page">
-</a>
+#
 
+### 🦾 Deadlink
+[![Deadlink - Official Full Release Trailer](https://ytcards.demolab.com/?id=DRBf9RD9Yjk&t=1s=Deadlink+-+Official+Full+Release+Trailer&lang=en&timestamp=1691100000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=102 "Deadlink - Official Full Release Trailer")](https://youtu.be/DRBf9RD9Yjk?si=n-RYUD_ZSKF4yUmT)
+#
 
 ### 📺 See my other projects
 [![AI FPS Bot](https://ytcards.demolab.com/?id=_nHJqRANQbI&title=AI+FPS+Bot&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=62 "AI FPS Bot")](https://youtu.be/_nHJqRANQbI?si=VtJsx143arrusI9U)
