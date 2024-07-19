@@ -40,4 +40,5 @@
 ### 📺 See my other projects
 [![AI FPS Bot](https://ytcards.demolab.com/?id=_nHJqRANQbI&title=AI+FPS+Bot&lang=en&timestamp=1671577200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=62 "AI FPS Bot")](https://youtu.be/_nHJqRANQbI?si=VtJsx143arrusI9U)
 [![In The Red prototype demo](https://ytcards.demolab.com/?id=lnIxMo0C9Wc&title=In+The+Red+prototype+demo&lang=en&timestamp=1671577200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=201 "In The Red")](https://www.youtube.com/watch?v=lnIxMo0C9Wc)
+[![Godot 2D Ragdoll](https://ytcards.demolab.com/?id=fGaJnliCNoI&title=Godot+2D+Ragdoll&lang=en&timestamp=1671577200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=114 "Godot 2D Ragdoll")](https://youtu.be/fGaJnliCNoI)
 
