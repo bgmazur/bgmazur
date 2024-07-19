@@ -2,8 +2,6 @@
 
 **`Developer | Gamemaker | UI UX Designer`**
 
-//TODO Desc
-
    <p align="left">
      <a href="https://g.co/kgs/8Q9Ty2o">
          <img alt="location" title="location" src="https://custom-icon-badges.demolab.com/badge/Katowice-PL-red?style=for-the-badge&logo=location&logoColor=white"/></a>
