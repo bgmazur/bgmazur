@@ -1,4 +1,4 @@
-# 🐱‍👓 Błażej Mazur
+# 🐱‍👓 Muke
 
 **`Developer | Gamemaker | UI UX Designer`**
 
